@@ -1,0 +1,93 @@
+.medications-container {
+    background-image: url('C:/healthcare-app/my-app/public/heart.jpg'); 
+    background-size:cover;
+    position:relative;
+    background-position: center;
+    height: 1000px;
+    /* background-blend-mode: lighten; */
+    /* margin: 0;  
+  padding: 0;  */
+  
+  }
+  .maindiv{
+    /* border: 1px solid red; */
+    
+  }
+  label{
+    margin-left: 1.5vw;
+  }
+  .navbar {
+    /* background-color: #ecc990; */
+    margin-left: 2vw;
+    font-size: large;
+    padding: 10px;
+    text-align:justify;
+  }
+  
+  .navbar-title {
+    margin: 0;
+  }
+   .div1 {
+    margin-left: 5.4vw;
+   }
+   .div2 {
+    margin-left: 2.8vw;
+   }
+   .div3 {
+    margin-left: 1.7vw;
+   }
+   .div4 {
+    margin-left: 0.6vw;
+   }
+   .addmedbtn{
+    margin-top: 1vw;
+    padding: 0.5vw;
+    background-color: #559f57; /* Green */
+    transition-duration: 0.4s;
+    cursor: pointer;
+    text-align: center;
+    font-size: medium;
+    text-decoration: none;
+    display: inline-block;
+    margin-left: 1.5vw;
+
+   }
+   .addmedbtn:hover{
+    background-color: #008CBA;
+    color: white;
+    
+   }
+   .btn {
+    background-color: #559f57; /* Green */
+    border: none;
+    color: white;
+    padding: 0.9vw;
+    text-align: center;
+    font-size: small;
+    text-decoration: none;
+    display: inline-block;
+    /* margin: 4px 2px; */
+    transition-duration: 0.4s;
+    cursor: pointer;
+    margin: 1.5vw;
+  }
+  .btn:hover {
+    background-color: #008CBA;
+    color: white;
+  }
+  .meddata{
+    background-image: url('C:/healthcare-app/my-app/public/protect.jpg'); 
+    background-size:cover;
+    position:relative;
+    background-position: center;
+    background-blend-mode: lighten;
+  }
+  /* .addmedlist{
+    background-image: url('C:/healthcare-app/my-app/public/heart.jpg'); 
+    background-color: cream;
+    background-size:cover;
+    position:relative;
+    background-position: center;
+    background-blend-mode: lighten;
+  } */
+  
